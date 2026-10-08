@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-10-04T16:17:02",
+  "generated_at": "2026-10-08T14:34:43",
   "vehicle_count": 154,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "2HGFB2E42EH041911",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/1efec91849f9.html",
       "source_url": "https://www.courtenaynissan.com/used/2014-Honda-Civic_Sedan-id14166226.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2014-Honda-Civic_Sedan-id14166226.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 175205,
       "year": 2014,
       "make": "Honda",
-      "model": "Civic Sedan LX - 4 Doors - Fully Reconditioned - Excellent 1st Vehicle - Very Reliable!in Courtenay",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Civic Sedan ",
@@ -36,7 +39,9 @@
       "year": 2014,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Civic Sedan ",
@@ -52,13 +57,16 @@
       "year": 2014,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Cherokee North Edition - Low Kms - Excellent Shape - Spacious - Automatic!in Courtenay",
       "vin": "1C4PJLCS3EW302672",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "North Edition",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d18b021726b5.html",
       "source_url": "https://www.courtenaynissan.com/used/2014-Jeep-Cherokee-id14386100.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2014-Jeep-Cherokee-id14386100.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,8 +76,10 @@
       "odometer_km": 165115,
       "year": 2014,
       "make": "Jeep",
-      "model": "Cherokee North Edition - Low Kms - Excellent Shape - Spacious - Automatic!in Courtenay",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Cherokee ",
@@ -85,7 +95,9 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2014 Jeep Cherokee ",
@@ -101,13 +113,16 @@
       "year": 2014,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 4WD SuperCab Styleside 6-1/2 Ft Box XLTin Courtenay",
       "vin": "1FTEX1EP9GFD56788",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Styleside 6-1/ XLTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ff7e848d5e2b.html",
       "source_url": "https://www.courtenaynissan.com/used/2016-Ford-F_150-id14432621.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2016-Ford-F_150-id14432621.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -117,8 +132,10 @@
       "odometer_km": 127730,
       "year": 2016,
       "make": "Ford",
-      "model": "F-150 4WD SuperCab Styleside 6-1/2 Ft Box XLTin Courtenay",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 ",
@@ -134,7 +151,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Ford F-150 ",
@@ -150,7 +169,9 @@
       "year": 2016,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio ",
@@ -166,13 +187,16 @@
       "year": 2016,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio EX - Automatic - Low Kms - 4 door!in Courtenay",
       "vin": "KNADN4A36G6551606",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/061631501223.html",
       "source_url": "https://www.courtenaynissan.com/used/2016-Kia-Rio-id14426863.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2016-Kia-Rio-id14426863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,8 +206,10 @@
       "odometer_km": 137382,
       "year": 2016,
       "make": "Kia",
-      "model": "Rio EX - Automatic - Low Kms - 4 door!in Courtenay",
-      "condition": "used"
+      "model": "Rio",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio ",
@@ -199,13 +225,16 @@
       "year": 2016,
       "make": "Kia",
       "model": "Rio",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chrysler Pacifica Hybrid Platinum - Spacious - Accident Free - Leather - Power Doors - Excellent Shape!in Courtenay",
       "vin": "2C4RC1N77HR753729",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/e58c09d76ad9.html",
       "source_url": "https://www.courtenaynissan.com/used/2017-Chrysler-Pacifica_Hybrid-id14413592.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2017-Chrysler-Pacifica_Hybrid-id14413592.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -215,8 +244,10 @@
       "odometer_km": 148020,
       "year": 2017,
       "make": "Chrysler",
-      "model": "Pacifica Hybrid Platinum - Spacious - Accident Free - Leather - Power Doors - Excellent Shape!in Courtenay",
-      "condition": "used"
+      "model": "Pacifica Hybrid",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chrysler Pacifica Hybrid ",
@@ -232,7 +263,9 @@
       "year": 2017,
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chrysler Pacifica Hybrid ",
@@ -248,13 +281,16 @@
       "year": 2017,
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Sedan EX Automatic - Sunroof - Roof Racks - Great on Gas!in Courtenay",
       "vin": "2HGFC2F81HH001368",
       "stock": "NUMBER",
       "color": "Light gray",
+      "trim": "EX Automatic",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/34a35dc60c15.html",
       "source_url": "https://www.courtenaynissan.com/used/2017-Honda-Civic_Sedan-id14327791.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2017-Honda-Civic_Sedan-id14327791.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -264,8 +300,10 @@
       "odometer_km": 190635,
       "year": 2017,
       "make": "Honda",
-      "model": "Civic Sedan EX Automatic - Sunroof - Roof Racks - Great on Gas!in Courtenay",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Sedan ",
@@ -281,7 +319,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Sedan ",
@@ -297,13 +337,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan LEAF S - Fully Electric - Accident Free - Excellent Shape!in Courtenay",
       "vin": "1N4BZ0CP1HC305434",
       "stock": "NUMBER",
       "color": "Burgundy",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/b509afd03387.html",
       "source_url": "https://www.courtenaynissan.com/used/2017-Nissan-LEAF-id14297919.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2017-Nissan-LEAF-id14297919.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -313,8 +356,10 @@
       "odometer_km": 90310,
       "year": 2017,
       "make": "Nissan",
-      "model": "LEAF S - Fully Electric - Accident Free - Excellent Shape!in Courtenay",
-      "condition": "used"
+      "model": "Leaf",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan LEAF ",
@@ -330,13 +375,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue SV AWD - Excellent Shape - Accident Free - Panoramic Moonroof - Power Seats - Remote Start!in Courtenay",
       "vin": "5N1AT2MV4HC816390",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ed2afd20d9fc.html",
       "source_url": "https://www.courtenaynissan.com/used/2017-Nissan-Rogue-id14340563.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2017-Nissan-Rogue-id14340563.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -346,8 +394,10 @@
       "odometer_km": 128800,
       "year": 2017,
       "make": "Nissan",
-      "model": "Rogue SV AWD - Excellent Shape - Accident Free - Panoramic Moonroof - Power Seats - Remote Start!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue ",
@@ -363,7 +413,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan LEAF ",
@@ -379,7 +431,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue ",
@@ -395,13 +449,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano SV AWD - Spacious - Luxury - Low Kms - Excellent Service History!in Courtenay",
       "vin": "5N1AZ2MH5JN140955",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/6f31ff71e68e.html",
       "source_url": "https://www.courtenaynissan.com/used/2018-Nissan-Murano-id13947554.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2018-Nissan-Murano-id13947554.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -411,8 +468,10 @@
       "odometer_km": 70515,
       "year": 2018,
       "make": "Nissan",
-      "model": "Murano SV AWD - Spacious - Luxury - Low Kms - Excellent Service History!in Courtenay",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -428,13 +487,16 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue SV - LOW Kms - Excellent Shape - 1 Owner - Power Seats - Remote Start - Blind Spot Warning!in Courtenay",
       "vin": "5N1AT2MV8JC776837",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/b0980bd43ddc.html",
       "source_url": "https://www.courtenaynissan.com/used/2018-Nissan-Rogue-id14392333.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2018-Nissan-Rogue-id14392333.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,8 +506,10 @@
       "odometer_km": 56905,
       "year": 2018,
       "make": "Nissan",
-      "model": "Rogue SV - LOW Kms - Excellent Shape - 1 Owner - Power Seats - Remote Start - Blind Spot Warning!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue ",
@@ -461,7 +525,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue ",
@@ -477,13 +543,16 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Sierra 1500 Elevation X31 - Excellent History - Power Seats - Heated Seats - 5.3L V8 - Trailer Packagein Courtenay",
       "vin": "1GTU9CEDXKZ154167",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Elevation X31",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/aa91d293a1b7.html",
       "source_url": "https://www.courtenaynissan.com/used/2019-GMC-Sierra_1500-id14255663.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2019-GMC-Sierra_1500-id14255663.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -493,8 +562,10 @@
       "odometer_km": 188850,
       "year": 2019,
       "make": "GMC",
-      "model": "Sierra 1500 Elevation X31 - Excellent History - Power Seats - Heated Seats - 5.3L V8 - Trailer Packagein Courtenay",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Sierra 1500 ",
@@ -510,7 +581,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Sierra 1500 ",
@@ -526,13 +599,16 @@
       "year": 2019,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 Raptorin Courtenay",
       "vin": "1FTFW1RG3LFB40222",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Raptorin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/f28d43d22d62.html",
       "source_url": "https://www.courtenaynissan.com/used/2020-Ford-F_150-id14426865.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2020-Ford-F_150-id14426865.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -542,8 +618,10 @@
       "odometer_km": 137830,
       "year": 2020,
       "make": "Ford",
-      "model": "F-150 Raptorin Courtenay",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -559,7 +637,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -575,7 +655,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Rogue ",
@@ -591,7 +673,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -607,13 +691,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano Platinum - Leather - 360 Camera - Island Local - Power Liftgate!in Courtenay",
       "vin": "5N1AZ2DS6MC105904",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/4c95176c752b.html",
       "source_url": "https://www.courtenaynissan.com/used/2021-Nissan-Murano-id14243093.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2021-Nissan-Murano-id14243093.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -623,8 +710,10 @@
       "odometer_km": 107390,
       "year": 2021,
       "make": "Nissan",
-      "model": "Murano Platinum - Leather - 360 Camera - Island Local - Power Liftgate!in Courtenay",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -640,13 +729,16 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue Platinum - 1 Owner - Fully Loaded - Excellent Shape - 360 Camera - Two-Tone!in Courtenay",
       "vin": "JN8AT3DD6MW318383",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d599e1141079.html",
       "source_url": "https://www.courtenaynissan.com/used/2021-Nissan-Rogue-id14320260.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2021-Nissan-Rogue-id14320260.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -656,8 +748,10 @@
       "odometer_km": 98365,
       "year": 2021,
       "make": "Nissan",
-      "model": "Rogue Platinum - 1 Owner - Fully Loaded - Excellent Shape - 360 Camera - Two-Tone!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Rogue ",
@@ -673,7 +767,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -689,13 +785,16 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Sport GT - Crew Cab - Excellent Shape - Lifted - Premium Audio System - Leather - Hemi!in Courtenay",
       "vin": "1C6SRFVT8NN111708",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d2365d9359a6.html",
       "source_url": "https://www.courtenaynissan.com/used/2022-RAM-1500-id14373640.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2022-RAM-1500-id14373640.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -705,8 +804,10 @@
       "odometer_km": 84930,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Sport GT - Crew Cab - Excellent Shape - Lifted - Premium Audio System - Leather - Hemi!in Courtenay",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -722,13 +823,16 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Kicks SV - 1 Owner - Heated Seats - Remote Start - Accident Free - Excellent Shape!in Courtenay",
       "vin": "3N1CP5CV1PL512444",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/980a37a09448.html",
       "source_url": "https://www.courtenaynissan.com/used/2023-Nissan-Kicks-id14407518.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2023-Nissan-Kicks-id14407518.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -738,8 +842,10 @@
       "odometer_km": 45720,
       "year": 2023,
       "make": "Nissan",
-      "model": "Kicks SV - 1 Owner - Heated Seats - Remote Start - Accident Free - Excellent Shape!in Courtenay",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Kicks ",
@@ -755,13 +861,16 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue SL - Leather - 360 Camera - Panoramic Moonroof - 1 Owner - Accident Free!in Courtenay",
       "vin": "JN8BT3CB2PW208326",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/c6e99810e745.html",
       "source_url": "https://www.courtenaynissan.com/used/2023-Nissan-Rogue-id14413585.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2023-Nissan-Rogue-id14413585.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -771,8 +880,10 @@
       "odometer_km": 43885,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue SL - Leather - 360 Camera - Panoramic Moonroof - 1 Owner - Accident Free!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -788,7 +899,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Kicks ",
@@ -804,7 +917,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -820,13 +935,16 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envista Avenir - Leather - 1 Owner - Heated Steering Wheel - Wireless Connectivity - Accident Free!in Courtenay",
       "vin": "KL47LCE24RB028851",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Avenir",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/80fd09733a5d.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Buick-Envista-id14272687.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Buick-Envista-id14272687.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -836,8 +954,10 @@
       "odometer_km": 22540,
       "year": 2024,
       "make": "Buick",
-      "model": "Envista Avenir - Leather - 1 Owner - Heated Steering Wheel - Wireless Connectivity - Accident Free!in Courtenay",
-      "condition": "used"
+      "model": "Envista",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Buick Envista ",
@@ -853,13 +973,16 @@
       "year": 2024,
       "make": "Buick",
       "model": "Envista",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Ariya ENGAGE - Fully Electric - Up to 348kms of Range - LOW Kms - Excellent Shape - One Owner!in Courtenay",
       "vin": "JN1AF0BA9RM432264",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "ENGAGE",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/4bb26976d25e.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Ariya-id14398783.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Ariya-id14398783.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,8 +992,10 @@
       "odometer_km": 20105,
       "year": 2024,
       "make": "Nissan",
-      "model": "Ariya ENGAGE - Fully Electric - Up to 348kms of Range - LOW Kms - Excellent Shape - One Owner!in Courtenay",
-      "condition": "used"
+      "model": "Ariya",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Ariya ",
@@ -886,13 +1011,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks SV -1 Owner - Accident Free - LOW KMS - Heated Seats - Alloy Wheels!in Courtenay",
       "vin": "3N1CP5CV9RL568280",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV -1 Owner",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/fe715698f423.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14304829.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14304829.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,14 +1030,17 @@
       "odometer_km": 11180,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks SV -1 Owner - Accident Free - LOW KMS - Heated Seats - Alloy Wheels!in Courtenay",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks S - 1 Owner - Excellent Shape - LOW Kms!in Courtenay",
       "vin": "3N1CP5BV7RL568389",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/04fdc76de840.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14432622.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14432622.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -919,13 +1050,16 @@
       "odometer_km": 13505,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks S - 1 Owner - Excellent Shape - LOW Kms!in Courtenay",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks SRin Courtenay",
       "vin": "3N1CP5DV1RL509738",
       "stock": "NUMBER",
+      "trim": "SRin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/419e8b34c338.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14438535.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Kicks-id14438535.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -935,8 +1069,10 @@
       "odometer_km": 65450,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks SRin Courtenay",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -952,13 +1088,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue Platinum - Low Kms- Power Lift Gate - 360 Camera - Excellent History!in Courtenay",
       "vin": "JN8BT3DD2RW253625",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/316e21f51b3d.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Rogue-id14261573.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Rogue-id14261573.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -968,14 +1107,17 @@
       "odometer_km": 42860,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue Platinum - Low Kms- Power Lift Gate - 360 Camera - Excellent History!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue S AWD - Low Kms! - Excellent Shape - Accident Free - Zero Gravity seating!in Courtenay",
       "vin": "JN8BT3AB7RW433573",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ea3551b29b7b.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Rogue-id14398784.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Rogue-id14398784.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -985,8 +1127,10 @@
       "odometer_km": 33630,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue S AWD - Low Kms! - Excellent Shape - Accident Free - Zero Gravity seating!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1002,13 +1146,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra SR - Low Kms - Excellent Condition - Accident Free - 1 Owner!in Courtenay",
       "vin": "3N1AB8DV5RY249628",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SR",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/a230a6ac7295.html",
       "source_url": "https://www.courtenaynissan.com/used/2024-Nissan-Sentra-id14216089.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2024-Nissan-Sentra-id14216089.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1018,8 +1165,10 @@
       "odometer_km": 45940,
       "year": 2024,
       "make": "Nissan",
-      "model": "Sentra SR - Low Kms - Excellent Condition - Accident Free - 1 Owner!in Courtenay",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -1035,7 +1184,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Ariya ",
@@ -1051,7 +1202,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1067,7 +1220,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1083,7 +1238,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -1099,13 +1256,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 XLT - 301A - 3.5L Ecoboost - LOW Kms - Excellent Shape!in Courtenay",
       "vin": "1FTFW3L86SKE51646",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/17c1ec91760b.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Ford-F_150-id14089558.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Ford-F_150-id14089558.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1115,8 +1275,10 @@
       "odometer_km": 21795,
       "year": 2025,
       "make": "Ford",
-      "model": "F-150 XLT - 301A - 3.5L Ecoboost - LOW Kms - Excellent Shape!in Courtenay",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1132,13 +1294,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Maverick XLT AWD - Ecoboost - LOW Kms - 1 Owner - Accident Free - Like-New!in Courtenay",
       "vin": "3FTTW8JA3SRA91205",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "XLT",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/b86b897a5fec.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Ford-Maverick-id14340561.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Ford-Maverick-id14340561.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1148,8 +1313,10 @@
       "odometer_km": 7705,
       "year": 2025,
       "make": "Ford",
-      "model": "Maverick XLT AWD - Ecoboost - LOW Kms - 1 Owner - Accident Free - Like-New!in Courtenay",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Maverick ",
@@ -1165,7 +1332,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1181,13 +1350,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue S AWD - Heated Seats - Remote Start - Accident Free - Like-New!in Courtenay",
       "vin": "JN8BT3AB6SW141063",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/6a0812dbe00d.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Nissan-Rogue-id14327789.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Nissan-Rogue-id14327789.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1197,14 +1369,17 @@
       "odometer_km": 36775,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue S AWD - Heated Seats - Remote Start - Accident Free - Like-New!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue S AWD - Heated Seats - Heated Steering Wheel - LOW Kms - Excellent Shape - 1 Owner!in Courtenay",
       "vin": "JN8BT3AB6SW418861",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/bb01a7ad441e.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Nissan-Rogue-id14419776.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Nissan-Rogue-id14419776.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1214,8 +1389,10 @@
       "odometer_km": 19240,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue S AWD - Heated Seats - Heated Steering Wheel - LOW Kms - Excellent Shape - 1 Owner!in Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1231,13 +1408,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra SV - 1 Owner - Low Kms - Accident Free - Remote Start - Excellent Shape!in Courtenay",
       "vin": "3N1AB8CV6SY373897",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ee9a50318cf7.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Nissan-Sentra-id14327790.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Nissan-Sentra-id14327790.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1247,8 +1427,10 @@
       "odometer_km": 25360,
       "year": 2025,
       "make": "Nissan",
-      "model": "Sentra SV - 1 Owner - Low Kms - Accident Free - Remote Start - Excellent Shape!in Courtenay",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -1264,7 +1446,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1280,7 +1464,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Sentra ",
@@ -1296,12 +1482,15 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Courtenay",
       "vin": "3VVUC7B27SM048726",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/e1b5d06d9f24.html",
       "source_url": "https://www.courtenaynissan.com/used/2025-Volkswagen-Taos-id14413589.html",
       "dealer_url": "https://www.courtenaynissan.com/used/2025-Volkswagen-Taos-id14413589.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,8 +1500,10 @@
       "odometer_km": 36012,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1327,7 +1518,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1343,7 +1536,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan ARIYAin Courtenay",
@@ -1357,7 +1552,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "ARIYAin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada ",
@@ -1373,7 +1570,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Frontierin Courtenay",
@@ -1387,7 +1586,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Frontierin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -1403,7 +1604,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -1419,7 +1622,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Muranoin Courtenay",
@@ -1433,7 +1638,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Muranoin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -1449,7 +1656,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -1465,7 +1674,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -1481,7 +1692,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -1497,7 +1710,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Zin Courtenay",
@@ -1511,7 +1726,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Zin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan ARIYAin Courtenay",
@@ -1525,7 +1742,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "ARIYAin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada ",
@@ -1541,7 +1760,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Frontierin Courtenay",
@@ -1555,7 +1776,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Frontierin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -1571,7 +1794,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -1587,7 +1812,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Muranoin Courtenay",
@@ -1601,7 +1828,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Muranoin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -1617,7 +1846,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -1633,7 +1864,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -1649,7 +1882,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -1665,7 +1900,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Zin Courtenay",
@@ -1679,13 +1916,16 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Zin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV Sold at Cost- While Supplies Last!in Courtenay",
       "vin": "3N8AP6CB3TL333577",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV Sold at Cost- While Supplies Last",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/592ab9d04ddf.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13091403.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13091403.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1695,14 +1935,17 @@
       "odometer_km": 2112,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV Sold at Cost- While Supplies Last!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
       "vin": "3N8AP6BB4TL382658",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "S Sold at Cost",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/b684772782b7.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13595322.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13595322.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1711,14 +1954,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
       "vin": "3N8AP6BB0TL384388",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "S Sold at Cost",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/0f0aaf64625e.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13629436.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13629436.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1727,14 +1973,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD Sold at Cost - While Supplies Last!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium AWD - Remote Start - Leather - Bose Audioin Courtenay",
       "vin": "3N8AP6DD7TL403372",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/6488b8a45033.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764863.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1743,14 +1992,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium AWD - Remote Start - Leather - Bose Audioin Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium AWD - BOSE - Sunroof - Wireless Connectivity!in Courtenay",
       "vin": "3N8AP6DD4TL403068",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/7729376122f4.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764868.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1759,14 +2011,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium AWD - BOSE - Sunroof - Wireless Connectivity!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium - Panoramic Moonroof - Remote Start - Heated Seats!in Courtenay",
       "vin": "3N8AP6CB4TL403460",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SV Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/17af33b5cc3b.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764869.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13764869.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1775,14 +2030,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium - Panoramic Moonroof - Remote Start - Heated Seats!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S - Heated Seats - Spacious - Backup Camera!in Courtenay",
       "vin": "3N8AP6BE9TL320182",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c6d33821088c.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13823220.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13823220.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1791,14 +2049,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S - Heated Seats - Spacious - Backup Camera!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium - Panoramic Moonroof - Roof Rails - Remote Start!in Courtenay",
       "vin": "3N8AP6CBXTL408100",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SV Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1a555bcb63c7.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13904863.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13904863.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1807,14 +2068,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium - Panoramic Moonroof - Roof Rails - Remote Start!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD - Heated Seats - Spacious - Fun-To-Drive!in Courtenay",
       "vin": "3N8AP6BB8TL421431",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/28a622fa64cd.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13967056.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13967056.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1823,14 +2087,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD - Heated Seats - Spacious - Fun-To-Drive!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD - Heated Seats - Remote Start - Apple carplayin Courtenay",
       "vin": "3N8AP6CB0TL419042",
       "stock": "NUMBER",
       "color": "Bronze",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4be0bcd79172.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13973849.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13973849.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1839,14 +2106,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD - Heated Seats - Remote Start - Apple carplayin Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD - Two-Tone - Remote Start - Great on Gas!in Courtenay",
       "vin": "3N8AP6CB8TL417801",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/8fc9395771e0.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13973850.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13973850.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2125,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD - Two-Tone - Remote Start - Great on Gas!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S - Heated Seats - Carplay/Android Auto!in Courtenay",
       "vin": "3N8AP6BE1TL420762",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/351c0394fce1.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13978548.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id13978548.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1871,14 +2144,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S - Heated Seats - Carplay/Android Auto!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium - BOSE audio - Panoramic Moonroof - Leather Seating!in Courtenay",
       "vin": "3N8AP6DD6TL420731",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c0286d1de354.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14034236.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14034236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1887,14 +2163,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium - BOSE audio - Panoramic Moonroof - Leather Seating!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium AWD - Heated Steering Wheel - Heated Seats - Leather - Bose Audio!in Courtenay",
       "vin": "3N8AP6DD0TL430204",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/7c79ef1ab719.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14054148.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14054148.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1903,14 +2182,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium AWD - Heated Steering Wheel - Heated Seats - Leather - Bose Audio!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium AWD - ProPilot Assist - 360 Camera - Bose Audio!in Courtenay",
       "vin": "3N8AP6DD1TL407336",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/f4d8035b3adf.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14078548.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14078548.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1919,14 +2201,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium AWD - ProPilot Assist - 360 Camera - Bose Audio!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium AWD - Panoramic Moonroof - 360 Camera - 4 Drive Modes!in Courtenay",
       "vin": "3N8AP6DD2TL404526",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/8983eece72cb.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14115947.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14115947.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1935,14 +2220,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium AWD - Panoramic Moonroof - 360 Camera - 4 Drive Modes!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR Premium - Panoramic Moonroof - CarPlay - BOSE Audio - Leather Appointed Seats!in Courtenay",
       "vin": "3N8AP6DD7TL430300",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SR Premium",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/51bd8cb2fc26.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14272685.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14272685.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1951,14 +2239,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR Premium - Panoramic Moonroof - CarPlay - BOSE Audio - Leather Appointed Seats!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD - Remote Start - Heated Seats - Excellent Fuel Economy!in Courtenay",
       "vin": "3N8AP6CB7TL357557",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d8e049b00950.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14340562.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14340562.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1967,14 +2258,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD - Remote Start - Heated Seats - Excellent Fuel Economy!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
       "vin": "3N8AP6CB4TL347634",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/516c21ec9dcb.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14340565.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14340565.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1983,13 +2277,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SRin Courtenay",
       "vin": "3N8AP6DD6TL416775",
       "stock": "NUMBER",
+      "trim": "SRin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d547d2c4df31.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14475132.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Kicks-id14475132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1998,14 +2295,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SRin Courtenay",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
       "vin": "JN8BT3AB2TW091165",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S HEATED SEATS",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/34257c68a98d.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13343117.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13343117.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2014,14 +2314,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
       "vin": "JN8BT3AB0TW092556",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S HEATED SEATS",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/912c4039c41c.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13439114.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13439114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2030,14 +2333,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
       "vin": "JN8BT3DD2TW485844",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c43725e752ec.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13764864.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13764864.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2047,14 +2353,17 @@
       "odometer_km": 6001,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
       "vin": "JN8BT3AB0TW099040",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/bc5f17363ea1.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13978550.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13978550.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2063,14 +2372,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - Remote Start - Heated Seats - Spacious!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - Heated Steering Wheel - Spacious - Excellent Fuel Economy!in Courtenay",
       "vin": "JN8BT3AB3TW378675",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/5fd2179d96aa.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990946.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990946.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2079,14 +2391,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - Heated Steering Wheel - Spacious - Excellent Fuel Economy!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
       "vin": "JN8BT3AB6TW090004",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1564834a2ffc.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990949.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990949.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2095,14 +2410,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
       "vin": "JN8BT3AB0TW376706",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/8fd174f8d2d0.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990951.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990951.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2111,14 +2429,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
       "vin": "JN8BT3AB7TW090903",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/0d59c250c98e.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990952.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id13990952.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2448,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
       "vin": "JN8BT3AB1TW093733",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/550ba1b3b2af.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14115950.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14115950.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2143,13 +2467,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Sin Courtenay",
       "vin": "JN8BT3ABXTW388829",
       "stock": "NUMBER",
+      "trim": "Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a67a26310e4b.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14261571.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14261571.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2158,14 +2485,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Sin Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
       "vin": "JN8BT3BB7TW388348",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1a95c04d0c00.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14261575.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14261575.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2174,14 +2504,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
       "vin": "JN8BT3BBXTW389087",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4e4178f1a4e5.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14354230.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14354230.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2190,14 +2523,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
       "vin": "JN8BT3BB3TW389576",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/98ba4264aac8.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14354231.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14354231.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2206,14 +2542,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
       "vin": "JN8BT3BB6TW389684",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a9386c20e975.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14379538.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Rogue-id14379538.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2222,14 +2561,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra S - Standard Safety Shield 360 - Back up Camera - Apple Carplay/Android Autoin Courtenay",
       "vin": "3N1AB9BV3TY275354",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/050952cc5c75.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Sentra-id13764867.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2026-Nissan-Sentra-id13764867.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2239,8 +2581,10 @@
       "odometer_km": 1360,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra S - Standard Safety Shield 360 - Back up Camera - Apple Carplay/Android Autoin Courtenay",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan ARIYAin Courtenay",
@@ -2254,7 +2598,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "ARIYAin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -2269,7 +2615,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Kicksin Courtenay",
@@ -2283,7 +2631,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicksin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -2298,7 +2648,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -2313,7 +2665,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Zin Courtenay",
@@ -2327,7 +2681,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Zin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan ARIYAin Courtenay",
@@ -2341,7 +2697,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "ARIYAin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Armadain Courtenay",
@@ -2355,7 +2713,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Armadain Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -2370,7 +2730,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Kicksin Courtenay",
@@ -2384,7 +2746,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Kicksin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -2399,7 +2763,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -2414,7 +2780,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Zin Courtenay",
@@ -2428,12 +2796,15 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Zin Courtenay",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF Unknownin Courtenay",
       "vin": "JN1BZ2BA4VM400906",
       "stock": "NUMBER",
+      "trim": "Unknownin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ce58929ef2c1.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2027-Nissan-LEAF-id14413591.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2027-Nissan-LEAF-id14413591.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2442,13 +2813,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Nissan",
-      "model": "LEAF Unknownin Courtenay",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF Sin Courtenay",
       "vin": "JN1BZ2BA7VM401306",
       "stock": "NUMBER",
+      "trim": "Sin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4f91b8f31a11.html",
       "source_url": "https://www.courtenaynissan.com/new/inventory/2027-Nissan-LEAF-id14426864.html",
       "dealer_url": "https://www.courtenaynissan.com/new/inventory/2027-Nissan-LEAF-id14426864.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2457,8 +2831,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Nissan",
-      "model": "LEAF Sin Courtenay",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     }
   ]
 }
