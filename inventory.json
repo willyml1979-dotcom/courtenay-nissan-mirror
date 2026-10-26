@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-10-25T22:45:22",
+  "generated_at": "2026-10-25T22:48:23",
   "vehicle_count": 140,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -158,6 +158,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Kicks SRin Courtenay",
+      "vin": "3N8AP6DD6TL416775",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d547d2c4df31.html",
+      "condition": "new",
+      "price": 40192.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Nissan LEAF SV + - Up to 463kms of Range - Power Seats - Leather - 360 Camera!in Courtenay",
       "vin": "JN1AZ2CA3TM307947",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/2a8ed1a684bf.html",
@@ -171,6 +179,70 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/912c4039c41c.html",
       "condition": "new",
       "price": 33776.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
+      "vin": "JN8BT3AB6TW090004",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1564834a2ffc.html",
+      "condition": "new",
+      "price": 33847.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
+      "vin": "JN8BT3AB0TW376706",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/8fd174f8d2d0.html",
+      "condition": "new",
+      "price": 33847.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
+      "vin": "JN8BT3AB7TW090903",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/0d59c250c98e.html",
+      "condition": "new",
+      "price": 33847.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
+      "vin": "JN8BT3AB1TW093733",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/550ba1b3b2af.html",
+      "condition": "new",
+      "price": 34127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue S AWD - Remote Start - Heated Steering Wheel - Spacious!in Courtenay",
+      "vin": "JN8BT3ABXTW388829",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a67a26310e4b.html",
+      "condition": "new",
+      "price": 34127.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
+      "vin": "JN8BT3BB7TW388348",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1a95c04d0c00.html",
+      "condition": "new",
+      "price": 41327.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
+      "vin": "JN8BT3BB3TW389576",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/98ba4264aac8.html",
+      "condition": "new",
+      "price": 41327.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
+      "vin": "JN8BT3BB6TW389684",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a9386c20e975.html",
+      "condition": "new",
+      "price": 41327.0,
       "price_currency": "CAD"
     },
     {
@@ -251,6 +323,22 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/cd0e064d3b21.html",
       "condition": "new",
       "price": 38742.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan LEAF S - Wireless Carplay/Android Auto - Up 341kms of Range - Heated Seats!in Courtenay",
+      "vin": "JN1BZ2BA4VM400906",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ce58929ef2c1.html",
+      "condition": "new",
+      "price": 34483.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan LEAF S Up to 341kms of EV Range! - Nissan Safety Shield - Heated Seats - Wireless Connection!in Courtenay",
+      "vin": "JN1BZ2BA7VM401306",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4f91b8f31a11.html",
+      "condition": "new",
+      "price": 34232.0,
       "price_currency": "CAD"
     },
     {
@@ -1226,17 +1314,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SRin Courtenay",
-      "vin": "3N8AP6DD6TL416775",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d547d2c4df31.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 40192.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
       "vin": "JN8BT3DD2TW485844",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c43725e752ec.html",
@@ -1256,94 +1333,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 33847.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - Remote Start - Cruise Control - 10 Airbags - LED lights!in Courtenay",
-      "vin": "JN8BT3AB6TW090004",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1564834a2ffc.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 33847.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - Paddle Shifters - LED Lights - Nissan Safety Shield Standard!in Courtenay",
-      "vin": "JN8BT3AB0TW376706",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/8fd174f8d2d0.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 33847.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - Remote Start - Heated Seats - Bluetooth!in Courtenay",
-      "vin": "JN8BT3AB7TW090903",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/0d59c250c98e.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 33847.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - LED Lights - Heated Steering Wheel - Rated Best in Class JD Power!in Courtenay",
-      "vin": "JN8BT3AB1TW093733",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/550ba1b3b2af.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 34127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - Remote Start - Heated Steering Wheel - Spacious!in Courtenay",
-      "vin": "JN8BT3ABXTW388829",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a67a26310e4b.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 34127.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - A/T Tires - Leather!in Courtenay",
-      "vin": "JN8BT3BB7TW388348",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1a95c04d0c00.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 41327.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
-      "vin": "JN8BT3BB3TW389576",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/98ba4264aac8.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 41327.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Rock Creek - Built in Roof Racks - Leather - 360 Camera - Upgraded Tires!in Courtenay",
-      "vin": "JN8BT3BB6TW389684",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/a9386c20e975.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 41327.0,
       "price_currency": "CAD"
     },
     {
@@ -1419,28 +1408,6 @@
       "model": "Zin Courtenay",
       "condition": "new",
       "price": 54247.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Nissan LEAF S - Wireless Carplay/Android Auto - Up 341kms of Range - Heated Seats!in Courtenay",
-      "vin": "JN1BZ2BA4VM400906",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ce58929ef2c1.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "new",
-      "price": 34483.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Nissan LEAF S Up to 341kms of EV Range! - Nissan Safety Shield - Heated Seats - Wireless Connection!in Courtenay",
-      "vin": "JN1BZ2BA7VM401306",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4f91b8f31a11.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "new",
-      "price": 34232.0,
       "price_currency": "CAD"
     }
   ]
