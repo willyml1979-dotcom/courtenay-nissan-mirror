@@ -1,7 +1,7 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-10-26T07:33:14",
-  "vehicle_count": 140,
+  "generated_at": "2026-10-26T07:37:17",
+  "vehicle_count": 139,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -179,6 +179,14 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/912c4039c41c.html",
       "condition": "new",
       "price": 33776.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
+      "vin": "JN8BT3DD2TW485844",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c43725e752ec.html",
+      "condition": "new",
+      "price": 42148.0,
       "price_currency": "CAD"
     },
     {
@@ -1311,28 +1319,6 @@
       "model": "Zin Courtenay",
       "condition": "new",
       "price": 47747.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum - Bose Speakers - Google Built-in - Leather Seating!in Courtenay",
-      "vin": "JN8BT3DD2TW485844",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c43725e752ec.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 42148.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S AWD - Heated Steering Wheel - Spacious - Excellent Fuel Economy!in Courtenay",
-      "vin": "JN8BT3AB3TW378675",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/5fd2179d96aa.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 33847.0,
       "price_currency": "CAD"
     },
     {
