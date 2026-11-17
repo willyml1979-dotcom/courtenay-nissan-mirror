@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-11-17T07:58:00",
+  "generated_at": "2026-11-17T08:09:07",
   "vehicle_count": 128,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -107,6 +107,62 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/bb3bcb4d0fad.html",
       "condition": "used",
       "price": 25999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2023 for salein Courtenay",
+      "vin": "5N1AT3AB7PC901531",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/fb28d7e0c148.html",
+      "condition": "new",
+      "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Ariya 2024 for salein Courtenay",
+      "vin": "JN1AF0BA9RM432264",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ff154e522b4e.html",
+      "condition": "new",
+      "price": 38511.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2024 for salein Courtenay",
+      "vin": "3N1CP5BV7RL568389",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d60f056b4347.html",
+      "condition": "new",
+      "price": 21355.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Sentra 2024 for salein Courtenay",
+      "vin": "3N1AB8DV5RY249628",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1b12e0633f53.html",
+      "condition": "new",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2025 for salein Courtenay",
+      "vin": "1FTFW3L81SKE49142",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/dceef2106ba1.html",
+      "condition": "new",
+      "price": 48999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2025 for salein Courtenay",
+      "vin": "JN8BT3AB6SW418861",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/03240e858785.html",
+      "condition": "new",
+      "price": 27116.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Courtenay",
+      "vin": "3VVUC7B27SM048726",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/3a38cf8b3ab0.html",
+      "condition": "new",
+      "price": 27144.0,
       "price_currency": "CAD"
     },
     {
@@ -297,17 +353,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Nissan Murano ",
-      "vin": "5N1AZ2DS6MC105904",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/02720c623212.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "new",
-      "price": 24404.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan Rogue SL - Leather - 360 Camera - Panoramic Moonroof - 1 Owner - Accident Free!in Courtenay",
       "vin": "JN8BT3CB2PW208326",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/c6e99810e745.html",
@@ -327,28 +372,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 22999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Kicks ",
-      "vin": "3N1CP5CV1PL512444",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/2e665ab0e127.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 19915.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue ",
-      "vin": "JN8BT3CB2PW208326",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/fb28d7e0c148.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 28310.0,
       "price_currency": "CAD"
     },
     {
@@ -484,50 +507,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Ariya ",
-      "vin": "JN1AF0BA9RM432264",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ff154e522b4e.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "new",
-      "price": 39220.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks ",
-      "vin": "3N1CP5BV7RL568389",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d60f056b4347.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 22572.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Rogue ",
-      "vin": "JN8BT3BB4RW282478",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ba996de66200.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 28552.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Sentra ",
-      "vin": "3N1AB8DV5RY249628",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/1b12e0633f53.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "new",
-      "price": 22512.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Volkswagen Tiguan Comfortline AWD - Accident Free - BC Local - Heated Seats - Spacious - Low Kms - Wireless Charging!in Courtenay",
       "vin": "3VV2B7AX4RM131080",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d6d00aa68e28.html",
@@ -546,17 +525,6 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 48999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L81SKE49142",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/dceef2106ba1.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
       "price": 48999.0,
       "price_currency": "CAD"
     },
@@ -616,28 +584,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue ",
-      "vin": "JN8BT3AB6SW418861",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/03240e858785.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 28618.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Sentra ",
-      "vin": "3N1AB8CV6SY373897",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/58313d84da01.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "new",
-      "price": 23444.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota RAV4 Trail - 1 Owner - Locally Owned - Low Kms - Accident Free - Leather - Power Seating!in Courtenay",
       "vin": "2T3J1RFV4SW587066",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d58b08598986.html",
@@ -678,17 +624,6 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 29630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B27SM048726",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/3a38cf8b3ab0.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
       "price": 29630.0,
       "price_currency": "CAD"
     },
@@ -1173,6 +1108,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Nissan Rogue Rock Creek - 360 Camera - Leather - Roof Racks!in Courtenay",
+      "vin": "JN8BT3BB2TW389410",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/37ac1172fd17.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 39977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Sin Courtenay",
+      "vin": "JN8BT3AB8TW102508",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/4657476a400e.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 38877.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Nissan Rogue Sin Courtenay",
+      "vin": "JN8BT3AB9TW104011",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/86fe3d6a941f.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 39127.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Nissan Sentra S - Standard Safety Shield 360 - Back up Camera - Apple Carplay/Android Autoin Courtenay",
       "vin": "3N1AB9BV3TY275354",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/050952cc5c75.html",
@@ -1366,6 +1334,17 @@
       "model": "Leaf",
       "condition": "new",
       "price": 39683.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Nissan Sentra Sv Premiumin Courtenay",
+      "vin": "3N1AB9CV7VY242634",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/b3584a730515.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "new",
+      "price": 33067.0,
       "price_currency": "CAD"
     }
   ]
