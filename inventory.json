@@ -1,6 +1,6 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-11-17T08:09:07",
+  "generated_at": "2026-11-17T23:57:49",
   "vehicle_count": 128,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -35,6 +35,14 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/f14f04793bd7.html",
       "condition": "used",
       "price": 14891.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Terrain 2018 for salein Courtenay",
+      "vin": "3GKALVEX2JL268247",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/abdd746d655a.html",
+      "condition": "used",
+      "price": 18825.0,
       "price_currency": "CAD"
     },
     {
@@ -78,6 +86,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Ariya 2024 for salein Courtenay",
+      "vin": "JN1AF0BA9RM432264",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ff154e522b4e.html",
+      "condition": "used",
+      "price": 38864.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2024 for salein Courtenay",
+      "vin": "3N1CP5BV7RL568389",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d60f056b4347.html",
+      "condition": "used",
+      "price": 21161.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2024 for salein Courtenay",
+      "vin": "5N1DR3BE3RC257209",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/2dc17cc1af07.html",
+      "condition": "used",
+      "price": 42353.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Sentra 2024 for salein Courtenay",
+      "vin": "3N1AB8DV5RY249628",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/1b12e0633f53.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Tiguan 2024 for salein Courtenay",
       "vin": "3VV2B7AX4RM131080",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/c35a0eae4209.html",
@@ -107,6 +147,30 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/bb3bcb4d0fad.html",
       "condition": "used",
       "price": 25999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2025 for salein Courtenay",
+      "vin": "JN8BT3AB6SW418861",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/03240e858785.html",
+      "condition": "used",
+      "price": 26822.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2025 for salein Courtenay",
+      "vin": "2T3J1RFV4SW587066",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/9922c2f4fc9c.html",
+      "condition": "used",
+      "price": 48866.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Courtenay",
+      "vin": "3VVUC7B27SM048726",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/3a38cf8b3ab0.html",
+      "condition": "used",
+      "price": 27747.0,
       "price_currency": "CAD"
     },
     {
@@ -206,7 +270,7 @@
       "make": "Mercedes-Benz",
       "model": "C-Class",
       "condition": "used",
-      "price": 20539.0,
+      "price": 20395.0,
       "price_currency": "CAD"
     },
     {
@@ -294,18 +358,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 20999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 GMC Terrain ",
-      "vin": "3GKALVEX2JL268247",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/abdd746d655a.html",
-      "year": 2018,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 20999.0,
+      "price": 18825.0,
       "price_currency": "CAD"
     },
     {
@@ -404,18 +457,7 @@
       "make": "Nissan",
       "model": "Ariya",
       "condition": "used",
-      "price": 39220.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Ariya ",
-      "vin": "JN1AF0BA9RM432264",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ff154e522b4e.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "used",
-      "price": 39220.0,
+      "price": 38864.0,
       "price_currency": "CAD"
     },
     {
@@ -441,17 +483,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks ",
-      "vin": "3N1CP5BV7RL568389",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d60f056b4347.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 22572.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Pathfinder SV 4WD - Low Kms - 6,000lb Tow Capacity - 3 Row - Excellent Shape!in Courtenay",
       "vin": "5N1DR3BE3RC257209",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/5a5e8f0a4c7c.html",
@@ -459,7 +490,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 44742.0,
+      "price": 42353.0,
       "price_currency": "CAD"
     },
     {
@@ -474,31 +505,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Pathfinder ",
-      "vin": "5N1DR3BE3RC257209",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/2dc17cc1af07.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 44742.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Sentra SR - Low Kms - Excellent Condition - Accident Free - 1 Owner!in Courtenay",
       "vin": "3N1AB8DV5RY249628",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/a230a6ac7295.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Sentra ",
-      "vin": "3N1AB8DV5RY249628",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/1b12e0633f53.html",
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
@@ -558,7 +567,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28618.0,
+      "price": 26822.0,
       "price_currency": "CAD"
     },
     {
@@ -573,17 +582,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue ",
-      "vin": "JN8BT3AB6SW418861",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/03240e858785.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 28618.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota RAV4 Trail - 1 Owner - Locally Owned - Low Kms - Accident Free - Leather - Power Seating!in Courtenay",
       "vin": "2T3J1RFV4SW587066",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d58b08598986.html",
@@ -591,18 +589,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 50999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 ",
-      "vin": "2T3J1RFV4SW587066",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/9922c2f4fc9c.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 50999.0,
+      "price": 48866.0,
       "price_currency": "CAD"
     },
     {
@@ -613,18 +600,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 29630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B27SM048726",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/3a38cf8b3ab0.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 29630.0,
+      "price": 27747.0,
       "price_currency": "CAD"
     },
     {
