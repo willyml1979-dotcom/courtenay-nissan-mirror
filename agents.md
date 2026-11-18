@@ -7,7 +7,7 @@ Courtenay Nissan is a  dealership in Courtenay. This site is an AI-readable mirr
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ (about 127 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/ (about 151 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/llms.txt

@@ -1,10 +1,18 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-11-18T00:03:36",
-  "vehicle_count": 127,
+  "generated_at": "2026-11-18T09:18:22",
+  "vehicle_count": 151,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Nissan Xterra 2013 for salein Courtenay",
+      "vin": "5N1AN0NW4DN811694",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/04cbcb21758d.html",
+      "condition": "used",
+      "price": 18994.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Jeep Cherokee 2014 for salein Courtenay",
       "vin": "1C4PJLCS3EW302672",
@@ -19,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/003777e01159.html",
       "condition": "used",
       "price": 30999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2016 for salein Courtenay",
+      "vin": "3C63R3HL6GG250939",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/2e7358248c42.html",
+      "condition": "used",
+      "price": 29939.0,
       "price_currency": "CAD"
     },
     {
@@ -46,11 +62,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Civic Coupe 2019 for salein Courtenay",
+      "vin": "2HGFC3B99KH450017",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/1f15e2a58d7e.html",
+      "condition": "used",
+      "price": 19846.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Odyssey 2019 for salein Courtenay",
+      "vin": "5FNRL6H45KB501964",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/cbd77b503595.html",
+      "condition": "used",
+      "price": 29963.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sedona 2019 for salein Courtenay",
+      "vin": "KNDMB5C17K6472841",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/a1d6897267ca.html",
+      "condition": "used",
+      "price": 18879.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Outlander PHEV 2019 for salein Courtenay",
       "vin": "JA4J24A59KZ610553",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/12b9ac5a6d93.html",
       "condition": "used",
-      "price": 18853.0,
+      "price": 18912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Murano 2020 for salein Courtenay",
+      "vin": "5N1AZ2AJ7LN102041",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/b0992afbd315.html",
+      "condition": "used",
+      "price": 14354.0,
       "price_currency": "CAD"
     },
     {
@@ -62,6 +110,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Charger 2022 for salein Courtenay",
+      "vin": "2C3CDXMG0NH107235",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/9b83c3336b0c.html",
+      "condition": "used",
+      "price": 30000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2022 for salein Courtenay",
+      "vin": "3N1CP5DV8NL524716",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/44e1ae04bef7.html",
+      "condition": "used",
+      "price": 18698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2022 for salein Courtenay",
+      "vin": "JN8BT3BB6NW330315",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/4c39e7b8bf36.html",
+      "condition": "used",
+      "price": 22907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Tucson 2023 for salein Courtenay",
+      "vin": "KM8JCCAE1PU234847",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/a9e4771ed738.html",
+      "condition": "used",
+      "price": 25996.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Rogue 2023 for salein Courtenay",
       "vin": "5N1AT3AB7PC901531",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/fb28d7e0c148.html",
@@ -70,11 +150,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Bronco Sport 2024 for salein Courtenay",
+      "vin": "3FMCR9B62RRE54624",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/989732ba7bef.html",
+      "condition": "used",
+      "price": 28728.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Transit Passenger Wagon 2024 for salein Courtenay",
+      "vin": "1FBAX2X87RKB19886",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/cc6db1e1d1ee.html",
+      "condition": "used",
+      "price": 77995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Savana Cargo 2024 for salein Courtenay",
       "vin": "1GTZ7GFP3R1117031",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/0a735bea1e08.html",
       "condition": "used",
-      "price": 49831.0,
+      "price": 49800.0,
       "price_currency": "CAD"
     },
     {
@@ -110,6 +206,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Rogue 2024 for salein Courtenay",
+      "vin": "JN8BT3DD2RW253625",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ba996de66200.html",
+      "condition": "used",
+      "price": 32878.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Sentra 2024 for salein Courtenay",
       "vin": "3N1AB8DV5RY249628",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/1b12e0633f53.html",
@@ -134,11 +238,19 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Frontier 2025 for salein Courtenay",
+      "vin": "1N6ED1EK7SN637447",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/6cf2c3022062.html",
+      "condition": "used",
+      "price": 53309.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Nissan Kicks 2025 for salein Courtenay",
       "vin": "3N8AP6BA6SL388659",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/62b00c5c7406.html",
       "condition": "used",
-      "price": 25652.0,
+      "price": 25431.0,
       "price_currency": "CAD"
     },
     {
@@ -147,6 +259,14 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/bb3bcb4d0fad.html",
       "condition": "used",
       "price": 25999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Murano 2025 for salein Courtenay",
+      "vin": "5N1AZ3BS4SC112131",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d537e9d5c820.html",
+      "condition": "used",
+      "price": 39997.0,
       "price_currency": "CAD"
     },
     {
@@ -171,6 +291,14 @@
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/3a38cf8b3ab0.html",
       "condition": "used",
       "price": 27747.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2026 for salein Courtenay",
+      "vin": "JN8BT3BB2TW087504",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/42cb4c0c71ac.html",
+      "condition": "used",
+      "price": 29500.0,
       "price_currency": "CAD"
     },
     {
@@ -230,6 +358,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2013 Nissan Xterra S | 4X4 | RARE!in Courtenay",
+      "vin": "5N1AN0NW4DN811694",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/f1b1769ed795.html",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Xterra S",
+      "condition": "used",
+      "price": 18994.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Honda Civic Sedan ",
       "vin": "2HGFB2E42EH041911",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/6118ebbb2fed.html",
@@ -248,7 +387,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 9920.0,
+      "price": 8250.0,
       "price_currency": "CAD"
     },
     {
@@ -274,17 +413,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Toyota Highlander Limitedin Courtenay",
-      "vin": "5TDDKRFHXFS176850",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/f5edf4804766.html",
-      "year": 2015,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 30999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Ford F-150 ",
       "vin": "1FTEX1EP9GFD56788",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/554253ee3e37.html",
@@ -296,6 +424,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 RAM 3500 SLT | 6.7L Cummins Turbo Dieselin Courtenay",
+      "vin": "3C63R3HL6GG250939",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/cfa2f7b2d0f7.html",
+      "year": 2016,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 29939.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Chrysler Pacifica Hybrid Platinum - Spacious - Accident Free - Leather - Power Doors - Excellent Shape!in Courtenay",
       "vin": "2C4RC1N77HR753729",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/e58c09d76ad9.html",
@@ -303,7 +442,7 @@
       "make": "Chrysler",
       "model": "Pacifica Hybrid",
       "condition": "used",
-      "price": 24316.0,
+      "price": 22421.0,
       "price_currency": "CAD"
     },
     {
@@ -315,6 +454,17 @@
       "model": "Pacifica Hybrid",
       "condition": "new",
       "price": 24316.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Nissan Rogue SV | AWD | HEATED SEATSin Courtenay",
+      "vin": "5N1AT2MV7HC768383",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/792c9ad2292d.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 10500.0,
       "price_currency": "CAD"
     },
     {
@@ -336,7 +486,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 14891.0,
+      "price": 14223.0,
       "price_currency": "CAD"
     },
     {
@@ -362,17 +512,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Mercedes-Benz AMG C 43 4MATIC - Accident Free - Excellent Condition - Leather Appointed Seating - Must See!in Courtenay",
-      "vin": "55SWF6EB5JU237283",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/25e16db40bdd.html",
-      "year": 2018,
-      "make": "Mercedes-Benz",
-      "model": "AMG C 43 4MATIC - Accident Free - Excellent Condition - Leather Appointed Seating - Must See!in Courtenay",
-      "condition": "used",
-      "price": 31693.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 GMC Sierra 1500 ",
       "vin": "1GTU9CEDXKZ154167",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/d06078e9719c.html",
@@ -384,6 +523,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Honda Civic Coupe Touring | | AUTOMATICin Courtenay",
+      "vin": "2HGFC3B99KH450017",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/7723d63b788c.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 19846.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Kia Sedona LXin Courtenay",
+      "vin": "KNDMB5C17K6472841",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/eff89502dc24.html",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Sedona LXin Courtenay",
+      "condition": "used",
+      "price": 18879.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Mitsubishi Outlander PHEV SE AWC - Hybrid - 1 Owner - Excellent Shape - Great Financing Available!in Courtenay",
       "vin": "JA4J24A59KZ610553",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/319bf22c3bad.html",
@@ -391,7 +552,29 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 18853.0,
+      "price": 18912.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Murano S | AUTOMATIC | FWDin Courtenay",
+      "vin": "5N1AZ2AJ7LN102041",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/765e5f3be2f4.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "used",
+      "price": 14354.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Nissan Kicks SR | FUEL EFFICIENT | BOSEin Courtenay",
+      "vin": "3N1CP5DV1ML525530",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/32c743c71689.html",
+      "year": 2021,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 18797.0,
       "price_currency": "CAD"
     },
     {
@@ -403,6 +586,39 @@
       "model": "Kicks",
       "condition": "used",
       "price": 15999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Kicks SR | BOSE | ONE OWNERin Courtenay",
+      "vin": "3N1CP5DV8NL524716",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/ac4e7d7a5999.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 18698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Rogue SV | AWD | FUEL EFFICIENTin Courtenay",
+      "vin": "JN8BT3BB6NW330315",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/73a1af672deb.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 22907.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Tucson N Line | One Owner | Liftedin Courtenay",
+      "vin": "KM8JCCAE1PU234847",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/5a7a2031b8d8.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 25996.0,
       "price_currency": "CAD"
     },
     {
@@ -428,14 +644,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Savana Cargo Camperized! - Low Kms - Excellent Condition - Ready to Go!in Courtenay",
-      "vin": "1GTZ7GFP3R1117031",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/6c4002962de8.html",
+      "name": "2024 Ford Bronco Sport Big Bend | RUGGED SUV | FUEL EFFICIENTin Courtenay",
+      "vin": "3FMCR9B62RRE54624",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/b632a9e7ada5.html",
       "year": 2024,
-      "make": "GMC",
-      "model": "Savana",
+      "make": "Ford",
+      "model": "Bronco Sport",
       "condition": "used",
-      "price": 49831.0,
+      "price": 28728.0,
       "price_currency": "CAD"
     },
     {
@@ -450,17 +666,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Ariya ENGAGE - Fully Electric - Up to 348kms of Range - LOW Kms - Excellent Shape - One Owner!in Courtenay",
-      "vin": "JN1AF0BA9RM432264",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/4bb26976d25e.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Ariya",
-      "condition": "used",
-      "price": 38864.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Kicks S - 1 Owner - Excellent Shape - LOW Kms!in Courtenay",
       "vin": "3N1CP5BV7RL568389",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/04fdc76de840.html",
@@ -468,7 +673,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22572.0,
+      "price": 21161.0,
       "price_currency": "CAD"
     },
     {
@@ -483,28 +688,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Pathfinder SV 4WD - Low Kms - 6,000lb Tow Capacity - 3 Row - Excellent Shape!in Courtenay",
-      "vin": "5N1DR3BE3RC257209",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/5a5e8f0a4c7c.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 42353.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Pathfinder SLin Courtenay",
-      "vin": "5N1DR3CE9RC268360",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/17fbcf276cec.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 44999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Sentra SR - Low Kms - Excellent Condition - Accident Free - 1 Owner!in Courtenay",
       "vin": "3N1AB8DV5RY249628",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/a230a6ac7295.html",
@@ -512,7 +695,29 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 25999.0,
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Sentra SV | AUTOMATIC | BACK-UP CAMERAin Courtenay",
+      "vin": "3N1AB8CV6RY374798",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/5734d23a30b7.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 19000.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Sentra SV | AUTOMATIC | LOW KILOMETERSin Courtenay",
+      "vin": "3N1AB8CVXRY369085",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/c92a5aca575e.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 22204.0,
       "price_currency": "CAD"
     },
     {
@@ -527,14 +732,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 XLT Super Crew - Accident Free - Ecoboost - Excellent Shape!in Courtenay",
-      "vin": "1FTFW3L81SKE49142",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/9028838a1274.html",
+      "name": "2025 Nissan Kicks SR | BOSE HEADREST | AWDin Courtenay",
+      "vin": "3N8AP6DD8SL384491",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/72bc7a0802a2.html",
       "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
+      "make": "Nissan",
+      "model": "Kicks",
       "condition": "used",
-      "price": 48999.0,
+      "price": 28779.0,
       "price_currency": "CAD"
     },
     {
@@ -545,7 +750,18 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 25652.0,
+      "price": 25431.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV | HATCHBACK | FWDin Courtenay",
+      "vin": "3N1CP5CV5SL476153",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/8231b8580ec7.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 20000.0,
       "price_currency": "CAD"
     },
     {
@@ -582,17 +798,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota RAV4 Trail - 1 Owner - Locally Owned - Low Kms - Accident Free - Leather - Power Seating!in Courtenay",
-      "vin": "2T3J1RFV4SW587066",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/d58b08598986.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 48866.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Taos Comfortline AWD - LOW Kms - BC Local - Spacious - Excellent Condition!in Courtenay",
       "vin": "3VVUC7B27SM048726",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/e1b5d06d9f24.html",
@@ -601,6 +806,17 @@
       "model": "Taos",
       "condition": "used",
       "price": 27747.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Rogue SV | MOONROOF | FUEL EFFICIENTin Courtenay",
+      "vin": "JN8BT3BB2TW087504",
+      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/used/7dd84308d4f9.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 29500.0,
       "price_currency": "CAD"
     },
     {
