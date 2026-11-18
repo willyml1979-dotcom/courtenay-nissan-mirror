@@ -1,7 +1,7 @@
 {
   "dealership": "Courtenay Nissan",
-  "generated_at": "2026-11-18T09:18:22",
-  "vehicle_count": 151,
+  "generated_at": "2026-11-18T09:23:21",
+  "vehicle_count": 149,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -410,17 +410,6 @@
       "model": "C-Class",
       "condition": "used",
       "price": 20395.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Ford F-150 ",
-      "vin": "1FTEX1EP9GFD56788",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/554253ee3e37.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 25119.0,
       "price_currency": "CAD"
     },
     {
@@ -1155,17 +1144,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Nissan LEAF SV + - Up to 463kms of Range - Power Seats - Leather - 360 Camera!in Courtenay",
-      "vin": "JN1AZ2CA3TM307947",
-      "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/2a8ed1a684bf.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "new",
-      "price": 41028.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Nissan Rogue S AWD HEATED SEATS, REMOTE START, SOLD AT COSTin Courtenay",
       "vin": "JN8BT3AB0TW092556",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/912c4039c41c.html",
@@ -1343,6 +1321,7 @@
     },
     {
       "name": "2027 Nissan ARIYAin Courtenay",
+      "vin": "JN8AF0BE7VM630176",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/c1300430046b.html",
       "year": 2027,
       "make": "Nissan",
@@ -1363,47 +1342,46 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Frontier ",
-      "vin": "1N6ED1FK2VN604102",
+      "name": "2027 Nissan Frontierin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/7bdd0b6d77c4.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Frontier",
+      "model": "Frontierin Courtenay",
       "condition": "new",
-      "price": 64597.0,
+      "price": 61097.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks ",
+      "name": "2027 Nissan Kicksin Courtenay",
       "vin": "3N8AP6CB3VL301666",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/494e7f1a3c71.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Kicks",
+      "model": "Kicksin Courtenay",
       "condition": "new",
-      "price": 35847.0,
+      "price": 31897.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan LEAF ",
+      "name": "2027 Nissan LEAFin Courtenay",
       "vin": "JN1AZ2BA3VM401718",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/efee0aac851d.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "LEAF",
+      "model": "LEAFin Courtenay",
       "condition": "new",
-      "price": 39683.0,
+      "price": 39247.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Murano ",
+      "name": "2027 Nissan Muranoin Courtenay",
       "vin": "5N1AZ3DS1VC102304",
       "url": "https://willyml1979-dotcom.github.io/courtenay-nissan-mirror/new/385ccc142afa.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Muranoin Courtenay",
       "condition": "new",
-      "price": 60797.0,
+      "price": 56997.0,
       "price_currency": "CAD"
     },
     {
